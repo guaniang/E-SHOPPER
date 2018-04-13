@@ -1,0 +1,75 @@
+[
+{   
+    "div":"product_right_div",
+    "imgsrc":"images/home/product1.jpg",
+ "S":"",
+    "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "i":"fa fa-shopping-cart",
+    "add":"fa fa-plus-square",
+    "join":"Add to cart",
+    "wishlist":"Add to wishlist",
+    "compare":"Add to compare"
+},{
+    "div":"product_right_div",
+    "imgsrc":"images/home/product2.jpg",
+    "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "i":"fa fa-shopping-cart",
+ "S":"",
+
+    "join":"Add to cart",
+    "add":"fa fa-plus-square",
+
+    "wishlist":"Add to wishlist",
+    "compare":"Add to compare" 
+},{
+    "div":"product_right_div",
+    "imgsrc":"images/home/product3.jpg",
+    "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "i":"fa fa-shopping-cart",
+    "add":"fa fa-plus-square",
+ "S":"",
+
+    "join":"Add to cart",
+    "wishlist":"Add to wishlist",
+    "compare":"Add to compare"
+},{
+    "div":"product_right_div",
+    "imgsrc":"images/home/product4.jpg",
+    "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "i":"fa fa-shopping-cart",
+    "add":"fa fa-plus-square",
+ "S":"images/home/new.png",
+    "join":"Add to cart",
+    "wishlist":"Add to wishlist",
+    "compare":"Add to compare"
+},{
+    "div":"product_right_div",
+    "imgsrc":"images/home/product5.jpg",
+    "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "i":"fa fa-shopping-cart",
+    "add":"fa fa-plus-square",
+ "S":"images/home/sale.png",
+
+    "join":"Add to cart",
+    "wishlist":"Add to wishlist",
+    "compare":"Add to compare"
+},{
+    "div":"product_right_div",
+    "imgsrc":"images/home/product6.jpg",
+    "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "i":"fa fa-shopping-cart",
+    "add":"fa fa-plus-square",
+ "S":"",
+
+    "join":"Add to cart",
+    "wishlist":"Add to wishlist",
+    "compare":"Add to compare"
+}
+
+]

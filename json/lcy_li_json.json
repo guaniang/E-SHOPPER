@@ -1,0 +1,66 @@
+[
+{   
+    "click":"click",
+    "title":"T-Shirt",
+    "imgSrc":{
+        "one":"images/home/gallery1.jpg",
+        "two":"images/home/gallery2.jpg",
+        "three":"images/home/gallery3.jpg",
+        "four":"images/home/gallery4.jpg"
+        },
+     "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "join":"Add to cart"
+},
+{   
+    "click":"",
+
+    "title":"Blazers",
+      "imgSrc":{
+        "one":"images/home/gallery2.jpg",
+        "two":"images/home/gallery1.jpg",
+        "three":"images/home/gallery3.jpg",
+        "four":"images/home/gallery4.jpg"
+        },
+     "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "join":"Add to cart"
+},
+{   "click":"",
+    "title":"Sunglass",
+      "imgSrc":{
+        "one":"images/home/gallery3.jpg",
+        "two":"images/home/gallery2.jpg",
+        "three":"images/home/gallery1.jpg",
+        "four":"images/home/gallery4.jpg"
+        },
+     "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "join":"Add to cart"
+},
+{   "click":"",
+    "title":"Kids",
+     "imgSrc":{
+        "one":"images/home/gallery4.jpg",
+        "two":"images/home/gallery2.jpg",
+        "three":"images/home/gallery3.jpg",
+        "four":"images/home/gallery1.jpg"
+        },
+     "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "join":"Add to cart"
+},
+{   "click":"",
+    "title":"Polo shirt",
+     "imgSrc":{
+        "one":"images/home/gallery3.jpg",
+        "two":"images/home/gallery2.jpg",
+        "three":"images/home/gallery4.jpg",
+        "four":"images/home/gallery1.jpg"
+        },
+     "money":"$56",
+    "recommend":"Easy Polo Black Edition",
+    "join":"Add to cart"
+}
+
+]
